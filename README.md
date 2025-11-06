@@ -20,18 +20,6 @@ This repository contains my **daily solutions**, insights, and learnings for all
 
 ---
 
-## 📂 Repository Structure  
-21-Days-SQL-Challenge-Indian-Data-Club/
-│
-├── DAY-1-CHALLENGE 
-├── DAY-2-CHALLENGE 
-├── DAY-3-CHALLENGE
-├── DAY-4-CHALLENGE 
-├── DAY-5-CHALLENGE
-│
-└── ... continues till Day-21
----
-
 Each folder includes:  
 - The **SQL query** for the day’s problem  
 - A **brief explanation** of the logic used  
