@@ -1,7 +1,7 @@
 /* Practice Questions*/
 
 /* 1. Calculate the average satisfaction score of all patients.*/
-SELECT ROUND(ANG(satisfaction)) AS avg_satisfaction FROM patients;
+SELECT ROUND(AVG(satisfaction)) AS avg_satisfaction FROM patients;
 /* 2. Count the total number of patients in the hospital.*/
 SELECT COUNT(*) AS total_patients FROM patients;
 /* 3. Find the minimum and maximum age of patients.*/
